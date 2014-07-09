@@ -8,6 +8,6 @@ public class StartUp {
     public static void main( String[] args ) {
     	LogUtil.initLog4j();
     	new Worker(Consts.CRAWL_URL).start();
-        // change testing 3
+        // change testing 5
     }
 }

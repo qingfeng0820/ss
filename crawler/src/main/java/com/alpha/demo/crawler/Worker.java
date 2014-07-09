@@ -10,7 +10,7 @@ import com.alpha.demo.crawler.parse.HtmlParser;
 import com.alpha.demo.crawler.write.ExcelWriter;
 
 public class Worker {
-	// change testing 2
+	// change testing 3
 	private static final Logger logger = Logger.getLogger(Worker.class);
     
 	/**

@@ -10,9 +10,9 @@ import com.alpha.demo.crawler.parse.HtmlParser;
 import com.alpha.demo.crawler.write.ExcelWriter;
 
 public class Worker {
-	
+
 	private static final Logger logger = Logger.getLogger(Worker.class);
-	
+    // change testing 2
 	/**
 	 * task queue. HtmlParser put task into it; ExcelWriter takes task from it.
 	 */
